@@ -39,4 +39,8 @@ public class test {
 		User user = new User(21,"123","123","123","aaa");
 		userDao.insert(user);
 	}
+	@Test
+	public void test() throws IOException {
+		System.out.println("left..");
+	}
 }
