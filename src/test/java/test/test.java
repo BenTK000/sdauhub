@@ -40,7 +40,9 @@ public class test {
 		userDao.insert(user);
 	}
 	@Test
-	public void test(){
-		System.out.println("right..");
+	public void test() {
+		System.out.println("left..");
+		System.out.println("hot_fix");
+		System.out.println(111);
 	}
 }
