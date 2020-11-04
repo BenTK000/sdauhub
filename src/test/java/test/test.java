@@ -42,5 +42,6 @@ public class test {
 	@Test
 	public void test() {
 		System.out.println("left..");
+		System.out.println("hot_fix");
 	}
 }
