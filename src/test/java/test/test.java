@@ -40,7 +40,7 @@ public class test {
 		userDao.insert(user);
 	}
 	@Test
-	public void test() throws IOException {
+	public void test(){
 		System.out.println("right..");
 	}
 }
